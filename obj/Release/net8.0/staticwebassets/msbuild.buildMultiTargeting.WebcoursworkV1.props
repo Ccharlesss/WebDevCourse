@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WebcoursworkV1.props" />
+</Project>
